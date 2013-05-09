@@ -8,7 +8,7 @@ Authors: Hemanth Kumar Mantri (HM7787), Makarand Damle (MSD872)
          The University of Texas at Austin
 
 References: 1. Paxos Made Simple, Leslie Lamport
-  		2. ORC Reference Guide: http://orc.csres.utexas.edu/
+  	    2. ORC Reference Guide: http://orc.csres.utexas.edu/
             3. Professor Seif Haridi's Video Lectures on YouTube
             4. IIT Madras Video Lectures on YouTube
             5. http://the-paper-trail.org
